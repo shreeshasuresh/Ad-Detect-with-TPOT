@@ -1,4 +1,4 @@
-# Detection of Advirtisment in Radio using Genetic Programming and Tpot genetic learning library
+# Detection of Advertisement on Radio using Genetic Programming and Tpot genetic programming library
 
 ## TPOT
 
