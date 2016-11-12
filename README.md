@@ -3,6 +3,7 @@
 TPOT is Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 
 TPOT is a python library which intelligently automates the entire process of selection of models,tuning of hyperparameters and finding the best representation of our feature dataset.
+< img src="https://github.com/rhiever/tpot/blob/master/images/tpot-ml-pipeline.png" align="center">
 
 TPOT will automatically optimize a series of feature preprocessors and models that maximize the cross-validation accuracy on the data set.
 
@@ -15,7 +16,7 @@ criterion = "entropy".
 max_features = 0.24.
 n_estimators = 500
 
-Genetic Programming
+# Genetic Programming
 
 Genetic algorithms are inspired by Darwin's theory about evolution. Solution to a problem solved by genetic algorithms is evolved. 
 Algorithm is started with a set of solutions (represented by chromosomes) called population. Solutions from one population are taken and used to form a new population. 
