@@ -1,5 +1,7 @@
 # Detection of Advertisement on Radio using Genetic Programming and Tpot genetic programming library
 
+This repo consists of the code that automatically chooses the best classification algorithm (using TPOT) based on the feature set and generates the code for the same. The initial version of the project can be found [here] (https://github.com/Shreesha-S/Ad-Detect)
+
 ## TPOT
 
 TPOT is Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
