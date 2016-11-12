@@ -28,5 +28,7 @@ http://www.obitko.com/tutorials/genetic-algorithms/index.php
 
 To learn more about the tpot library
 http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/
+
 https://rhiever.github.io/tpot/
+
 https://github.com/rhiever/tpot
