@@ -1,4 +1,6 @@
-# Ad-Detect-with-TPOT
+# Detection of Advirtisment in Radio using Genetic Programming and Tpot genetic learning library
+
+## TPOT
 
 TPOT is Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 
@@ -16,7 +18,7 @@ criterion = "entropy".
 max_features = 0.24.
 n_estimators = 500
 
-# Genetic Programming
+## Genetic Programming
 
 Genetic algorithms are inspired by Darwin's theory about evolution. Solution to a problem solved by genetic algorithms is evolved. 
 Algorithm is started with a set of solutions (represented by chromosomes) called population. Solutions from one population are taken and used to form a new population. 
